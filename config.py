@@ -1,0 +1,2 @@
+CELERY_BROKER_URL = 'redis://:pb291aa6de7da0f8e42888f666e5a86df97a1a6c232466f9f14985eaf4aa42e03@ec2-52-71-131-235.compute-1.amazonaws.com:15869'
+CELERY_RESULT_BACKEND = 'redis://:pb291aa6de7da0f8e42888f666e5a86df97a1a6c232466f9f14985eaf4aa42e03@ec2-52-71-131-235.compute-1.amazonaws.com:15869'
