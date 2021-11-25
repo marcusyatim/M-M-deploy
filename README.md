@@ -30,7 +30,7 @@ The files here are manifest that tells Docker and Heroku how to deploy the progr
 
 1. `Dockerfile`: Contains all the commands to call on the command line to assemble the Docker image.
 2. `heroku.yml`: A manifest to define the Heroku app
-3. `requirements.txt: Dependencies and libraries to install.
+3. `requirements.txt`: Dependencies and libraries to install.
 
 ### Data
 
