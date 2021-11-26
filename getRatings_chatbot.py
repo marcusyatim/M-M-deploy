@@ -1,6 +1,6 @@
 '''
 Author: Eu Jin Marcus Yatim
-This python script asks the user to input a review for a recipe. The script will then automatically give a rating (from 0-5) of the recipe based on the review.
+This python script asks the user to input a review for a recipe. The script will then automatically give a rating (from 1-5) of the recipe based on the review.
 This script is to run on the chatbot.
 Requires run_BERT.py
 '''
