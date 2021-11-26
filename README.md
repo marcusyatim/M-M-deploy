@@ -34,7 +34,7 @@ The files here are manifest that tells Docker and Heroku how to deploy the progr
 
 ### Data
 
-These only contain the required data files to work in production. They were prebuilt from https://github.com/marcusyatim/M-M and are available at said repo. (As such, data files are not included in this repo).
+These only contain the required data files to work in production. They were prebuilt from https://github.com/marcusyatim/M-M/tree/main/data and are available at said repo. (As such, data files are not included in this repo).
 
 1. getRatings
 
