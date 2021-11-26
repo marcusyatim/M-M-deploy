@@ -34,8 +34,12 @@ The files here are manifest that tells Docker and Heroku how to deploy the progr
 
 ### Data
 
-These only contain the required data files to work in production. They were prebuilt from https://github.com/marcusyatim/M-M.
+These only contain the required data files to work in production. They were prebuilt from https://github.com/marcusyatim/M-M and are available at said repo. (As such, data files are not included in this repo).
 
-1. `getRatings`
-2. `getRecommendations`
-3. `getTags`
+1. getRatings
+
+2. getRecommendations
+> - `/assignments/exp3.csv`
+> - `/topN/exp3.json`
+
+3. getTags
