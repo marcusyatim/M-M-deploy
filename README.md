@@ -1,6 +1,6 @@
 # Marcus Y Food
 
-The source code and data in this repo is meant for deploying to production on Heroku platform with Docker.
+The source code and data in this repo are meant for deploying to production on Heroku platform with Docker.
 
 For testing environment on local machine, refer to the accompanying repo https://github.com/marcusyatim/M-M. 
 
@@ -29,7 +29,7 @@ The code seen here are generally similar to those found in https://github.com/ma
 The files here are manifest that tells Docker and Heroku how to deploy the program.
 
 1. `Dockerfile`: Contains all the commands to call on the command line to assemble the Docker image.
-2. `heroku.yml`: A manifest to define the Heroku app
+2. `heroku.yml`: A manifest to define the Heroku app.
 3. `requirements.txt`: Dependencies and libraries to install.
 
 ### Data
