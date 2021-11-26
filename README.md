@@ -1,6 +1,6 @@
 # Marcus Y Food
 
-The source code and data in this repo is meant for deploying for production on Heroku platform with Docker.
+The source code and data in this repo is meant for deploying to production on Heroku platform with Docker.
 
 For testing environment on local machine, refer to the accompanying repo https://github.com/marcusyatim/M-M. 
 
@@ -14,7 +14,7 @@ This repo only contains files that are required to deploy the Marcus Y Food bot 
 
 ### Code
 
-The code seen here are generally the same as those found in https://github.com/marcusyatim/M-M. However, they have been modified slightly in order to work with Docker and Heroku.
+The code seen here are generally similar to those found in https://github.com/marcusyatim/M-M/tree/main/code. However, they have been modified slightly in order to work with Docker and Heroku.
 
 1. `app.py`
 2. `config.py`
